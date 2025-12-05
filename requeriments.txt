@@ -1,0 +1,12 @@
+# Bibliotecas principais para análise de dados
+pandas
+numpy
+matplotlib
+seaborn
+
+# Bibliotecas de Machine Learning
+scikit-learn  # Usada para StandardScaler e KMeans
+mlxtend       # Usada para apriori e association_rules
+
+# Extra para visualização
+import warnings
