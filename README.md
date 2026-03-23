@@ -40,9 +40,9 @@ Através da aplicação de **K-Means** e **Regras de Associação (Apriori)**, i
 │   └── cities_air_quality_water_pollution.csv  # Dataset original utilizado
 │
 ├── notebooks/
-│   └── analysis_clustering_apriori.ipynb       # Código completo (Limpeza, K-Means, Apriori)
+│   └──        # Código completo (Limpeza, K-Means, Apriori)
 │
 ├── presentation/
-│   └── presentation_slides.pdf                 # [IMPORTANTE] Artigo com as explicações detalhadas e conclusões
+│   └── presentation_slides.pdf                 # Artigo com as explicações detalhadas e conclusões
 │
 └── requirements.txt                            # Lista de dependências para rodar o projeto
