@@ -39,8 +39,8 @@ Através da aplicação de **K-Means** e **Regras de Associação (Apriori)**, i
 ├── data/
 │   └── cities_air_quality_water_pollution.csv  # Dataset original utilizado
 │
-├── notebooks/
-│   └──        # Código completo (Limpeza, K-Means, Apriori)
+├── code/
+│   └── codigo_padronização_e_associacao.py       # Código completo (Limpeza, K-Means, Apriori)
 │
 ├── presentation/
 │   └── presentation_slides.pdf                 # Artigo com as explicações detalhadas e conclusões
